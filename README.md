@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-- **Objective**: Develop a chatbot using a pre-trained Large Language Model (LLM) for generating informative medical responses.
-- **Goal**: Aanswer the user queries about health concerns, symptoms, treatments, and more.
+- **Goal**: Develop a chatbot to answer user queries about health concerns, symptoms, treatments, and more.
 - **Purpose**: Serve as a reliable and accessible resource for medical information and advice.
+- **Learning Context**: This project was completed as part of the learning stages of the [GUVI](https://www.guvi.in/) [SAWIT.AI](https://sawitnetwork.com/sawit-ai) Women-Only, Gen AI Learning Challenge.
   
 ## Key Components
 
@@ -47,4 +47,3 @@
 
 ## Testing
 - Conducted testing with various medical-related prompts.
-
