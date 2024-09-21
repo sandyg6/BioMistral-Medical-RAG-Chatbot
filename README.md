@@ -1,4 +1,4 @@
-# Medical-Chatbot-using-RAG
+# BioMistral Medical RAG Chatbot
 
 ## Project Overview
 
