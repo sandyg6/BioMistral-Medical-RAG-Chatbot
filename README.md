@@ -47,3 +47,8 @@
 
 ## Testing
 - Conducted testing with various medical-related prompts.
+
+## Models and Data used
+- https://huggingface.co/NeuML/pubmedbert-base-embeddings
+- https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF/tree/main
+- https://www.nhlbi.nih.gov/files/docs/public/heart/healthyheart.pdf
